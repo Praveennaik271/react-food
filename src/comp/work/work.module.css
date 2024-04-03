@@ -1,0 +1,65 @@
+.abo{
+    margin-left: 750px;
+}
+.abo h2{
+    color: rgb(221, 156, 14);
+  
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    margin-left: 25px;
+}
+
+.abo h1{
+    font-size: 50px;
+    max-width: 800px;
+    margin: 10px;
+    font-family: "Source Sans 3", sans-serif;
+    font-optical-sizing: auto;
+    color: rgb(65, 63, 63);
+   margin-left:-100px;
+}
+
+.abo p{
+    font-family: "Source Sans 3", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 19px;
+    margin-left: -250px;
+
+}
+.ab33{
+padding-left: 110px;
+}
+
+.but{
+    display: flex;
+    margin: 0 auto;
+    max-width: 1180;
+    justify-content: space-between;
+    
+}
+
+.bu1{
+
+    margin-left: 400px;
+    width: 250px;
+    
+    
+    
+}
+.bu2{
+    margin-left: -0px;
+    width: 250px;
+    
+}
+
+.bu3{
+   
+    margin-right: 400px;
+    width: 250px;
+    
+}
+
+.but button{
+    border-radius: 30px;
+    border-style: none;
+}
